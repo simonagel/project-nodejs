@@ -1,0 +1,5 @@
+student.html:1 Access to XMLHttpRequest at 'http://localhost:8080/api/books' from origin 'null' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+presentation.js:75 Uncaught (in promise) Object
+
+
+https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9

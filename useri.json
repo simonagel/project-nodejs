@@ -1,0 +1,3 @@
+[{"Id":4, "firstName":"davor", "lastName":"davidovikj", "eMail":"davor@gmail.com", "role":"s", "isActive":"1", "passw0":"11111111", "passw":"$2a$10$wWuKmiWIFl3qdGFbucCPDerkgZU/0nLMnh22sbX5Iu50Dt.eyJq8."},
+ {"Id":5, "firstName":"simon", "lastName":"angel", "eMail":"ss@ss.com", "role":"s", "isActive":"1", "passw0":"22222222", "passw":"$2a$10$ALkMsd533/KqeLh0sTIDvOYjq0ZY5cm4xkFlne33wzOEDxRvuiF4q"},
+ {"Id":6, "firstName":"mimi", "lastName":"lalo", "eMail":"lalo@ll.com", "role":"s", "isActive":"1", "passw0":"12345678", "passw":"$2a$10$Aufk5QchdJzUYiMle9ydQ.hhS981dFYz3NWQuwyGBJlqpC1QgOZU6"}]

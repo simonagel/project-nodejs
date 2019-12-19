@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Emily Bronte",
+        "cover_id": "8254607",
+        "subject": "Love",
+        "title": "Wuthering Heights"
+    },
+    {
+        "name": "Plato",
+        "cover_id": "8236248",
+        "subject": "Philosophy",
+        "title": "The Dialogues of Plato"
+    },
+    {
+        "name": "Edmond Rostand",
+        "cover_id": "8236320",
+        "subject": "Love",
+        "title": "Cyrano de Bergerac"
+    },
+    {
+        "name": "Plato",
+        "cover_id": "8236957",
+        "subject": "Philosophy",
+        "title": "Symposion"
+    },
+
+{
+"name": "Publius Ovidius Naso",
+"cover_id": "6485710",
+"subject": "Love",
+"title": "Ars amatoria"
+},
+
+{
+"name": "Plato",
+"cover_id": "5551590",
+"subject": "Philosophy",
+"title": "Phaedo"
+},
+
+{
+"name": "Plato",
+"cover_id": "8241445",
+"subject": "Love",
+"title": "Theaetetus"
+},
+
+{
+"name": "Plato",
+"cover_id": "8235174",
+"subject": "Philosophy",
+"title": "Apology"
+},
+
+{
+"name": "Plato",
+"cover_id": "5758787",
+"subject": "Philosophy",
+"title": "Timaeus"
+},
+
+{
+"name": "Publius Ovidius Naso",
+"cover_id": "5758343",
+"subject": "Love",
+"title": "Amores"
+},
+
+{
+"name": "Plato",
+"cover_id": "8246270",
+"subject": "Love",
+"title": "Protagoras"
+},
+
+{
+"name": "Francis de Sales",
+"cover_id": "6317884",
+"subject": "Love",
+"title": "Introduction"
+}
+
+]
