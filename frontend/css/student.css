@@ -1,0 +1,137 @@
+.divBlack{
+    width: 90%;
+    margin:0 auto;
+    height: 100%;
+    background-color: #111;
+    opacity: 0.9;
+}
+
+.divPocetna1{
+    width:100%;
+
+}
+
+.divHead{
+    width: 100%;
+    height: 50px;
+    background-color: #111;
+    color:whitesmoke;
+    margin:0 auto;
+    display: inline-flex;
+}
+
+.divHead > h1 {
+    margin: 15px auto;
+}
+
+.studentLogin{
+    display:flex;
+    align-content: space-around;
+
+}
+
+.studentInfo{
+    padding:5px;
+    color:red;
+}
+
+.search{
+    width:96%;
+    margin-top:20px;
+    margin-left:15px;
+    height: 40px;
+    border:2px solid #a8323c;
+    border-radius: 40px;
+    outline:none;
+    color:#111;
+    font-size:16px;
+    font-weight: bold;
+    padding-left:10px;
+}
+
+.showBooks{
+  
+    background-image: linear-gradient(to right, #03c2fc, #036bfc);
+}
+
+.showBooks:hover{
+    background-image: linear-gradient(to right, #036bfc, #03c2fc);
+}
+
+.btnSearch{
+  margin-left:10px;
+}
+.bookImage{
+    display: block;
+    height: 100%;
+    width: 100%;
+  
+}
+.bookImg{
+    width:200px;
+    height:300px;
+
+}
+.divBook{
+    width:32%;
+    height:500px;
+    position: relative;
+    border-bottom:2px solid whitesmoke;
+    padding-top:10px;
+}
+
+#info{
+    display:flelx;
+    flex-direction: column;
+    align-content: space-around;
+    position: absolute;
+    bottom:10px;
+}
+
+.container{
+    width: 90%;
+    margin:0 auto;
+    background-color: #111;
+    color:whitesmoke;
+    display:flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+.sspan{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:14px;
+    margin-bottom:20px;
+    font-style: italic;
+}
+
+.btnReserve{
+    color:whitesmoke;
+    font-size: 16px;
+    background-image: linear-gradient(to right, #036bfc, #03c2fc);
+
+}
+
+.isAvailable{
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.bspan{
+    color:#32a8a6;
+}
+
+a:link {
+    text-decoration: none; 
+    color:whitesmoke;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+a:visited{
+    text-decoration: none; 
+}

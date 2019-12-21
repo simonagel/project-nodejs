@@ -12,6 +12,7 @@ router.post('/user/login', action.logUserAction);
 router.post('/logged', action.aLoggedUserAction);
 router.get('/users', checkToken.checkToken, action.getAllUserAction);
 
+
 module.exports = router;
 
 
